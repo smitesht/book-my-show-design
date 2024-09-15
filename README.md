@@ -26,6 +26,9 @@ The Movie Theater Seat Reservation System is designed to efficiently manage the 
 - **Show**: The Show class objects are created using ShowPlanner. The class uses ScreenHall, Movie, and ShowTime to manage the show. It also supports price updation based on seat categories, cancellation of shows, helper method for cancellation of seats, etc.
 - **BookingManager**: The BookingManager selects the theater, show, and seats, and books the ticket after processing payment.
 
+![image](https://github.com/user-attachments/assets/5a085d2a-966c-49ec-8a1d-09357386c065)
+
+
 ![image](https://github.com/user-attachments/assets/d7ff2785-c264-4e52-84b7-37dc66ec1e0c)
 
 ![Seat](https://github.com/user-attachments/assets/8df02b20-d18c-4ca6-8a01-f464cbd455e1)
